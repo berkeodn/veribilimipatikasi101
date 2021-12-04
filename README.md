@@ -1,1 +1,2 @@
-# veribilimi101proje
+# Kodluyoruz 
+* veri bilimi
