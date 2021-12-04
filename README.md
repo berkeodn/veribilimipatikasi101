@@ -1,2 +1,1 @@
-# Kodluyoruz 
-* veri bilimi
+# Kodluyoruz Veri Bilimi LevelUp#1 
